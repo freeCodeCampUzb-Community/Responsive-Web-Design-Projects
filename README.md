@@ -4,4 +4,4 @@ Bu yerda freeCodeCamp Uzb Community a'zolarining proyektlariga havolalar joylana
 
  - Basic CSS - [YouTube](https://www.youtube.com/watch?v=2engwFeWZoA)
    
- - Applied Visual Design - [YouTube]()
+ - Applied Visual Design - [YouTube](https://www.youtube.com/watch?v=ZNqXMeNwtgg&feature=youtu.be)
